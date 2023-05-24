@@ -1,0 +1,15 @@
+{
+  "name": "exampleservice",
+  "version-string": "0.1.0",
+  "builtin-baseline": "4e368f63904b784e19401e08cbc15ca8f06eb92a",
+  "dependencies": [
+    {
+      "name": "oatpp",
+      "version>=": "1.3.0"
+    },
+    {
+      "name": "oatpp-swagger",
+      "version>=": "1.3.0"
+    }
+  ]
+}
